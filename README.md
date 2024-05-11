@@ -1,5 +1,8 @@
 # AED-Project
 Algorithm and Data Structures Project
 
-##Final Grade
+Problem descriptions in Portuguese
+
+## Final grade:
 15.4/20
+
